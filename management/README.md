@@ -1,6 +1,3 @@
-## management system
-본 프로그램은 React 강의 목적으로 제작된 것으로 두번째 시도임을 알려드립니다.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
